@@ -144,38 +144,6 @@ These are just some of the key AI engines that OpenAI has developed. The OpenAI 
 
 ## AI Agent
 
-The landscape of artificial intelligence is filled with different terms that can be confusing. Here's a breakdown of some key concepts to help clarify how they relate to one another.
-
-### 1. AI Engine
-
-An **AI Engine** is the foundational computational core of an AI system. It's the "powerhouse" that handles the heavy lifting, including:
-
-* **Processing Data:** Taking in large amounts of data, both structured and unstructured.
-* **Executing Algorithms:** Running the machine learning and deep learning models.
-* **Making Decisions/Predictions:** Using the trained models to generate outputs or insights based on new data.
-
-Think of an AI engine as the **motor of a car**. It's not the car itself, but it's what makes the car run. An AI engine can be a specialized software system, or it can be a hardware processor optimized for AI tasks. Different types of AI engines exist, such as:
-
-* **Natural Language Processing (NLP) Engines:** Optimized for understanding and generating human language.
-* **Computer Vision Engines:** Designed for analyzing and understanding images or videos.
-* **Recommendation Engines:** Used to suggest products or content based on a user's past behavior.
-
-The OpenAI API gives you access to the AI engines behind their models like GPT-4.
-
-### 2. Large Language Model (LLM)
-
-A **Large Language Model (LLM)** is a specific **type of AI engine** that is trained on a massive amount of text data. Its primary function is to understand and generate human-like language.
-
-* **How it Works:** LLMs use a deep learning architecture, most commonly the "transformer" model. They learn to predict the most probable next word in a sequence based on the words that came before it. This allows them to create coherent and contextually relevant sentences, paragraphs, and even entire documents.
-* **Key Capabilities:**
-    * **Text Generation:** Writing articles, stories, emails, and code.
-    * **Summarization:** Condensing long documents into key points.
-    * **Translation:** Converting text from one language to another.
-    * **Question Answering:** Providing informative answers to questions.
-* **Analogy:** If an AI engine is the motor, an LLM is a **specialized, high-performance engine** built specifically to process and generate language. It's an engine that's extremely good at one particular job.
-
-### 3. AI Agent
-
 An **AI Agent** is a more complete and **autonomous** system that is built **around** an AI engine (like an LLM) to accomplish a specific goal. Unlike a standalone LLM that simply responds to a prompt, an AI agent can:
 
 * **Reason and Plan:** It can break down a complex, high-level goal into a series of smaller, actionable steps.
