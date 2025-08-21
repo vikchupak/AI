@@ -206,3 +206,7 @@ Generative AI is transforming many industries, and its applications are becoming
 ### Standard RAG vs Agentic RAG
 
 <img width="1584" height="720" alt="image" src="https://github.com/user-attachments/assets/35eeeb6e-fe90-49f7-9495-fef99b65a00d" />
+
+<img width="1098" height="298" alt="image" src="https://github.com/user-attachments/assets/b7984f9e-edaf-4a14-8c36-45d0a0cbfa72" />
+
+
