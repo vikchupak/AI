@@ -204,3 +204,5 @@ Generative AI is transforming many industries, and its applications are becoming
 * **Luma AI:** A tool that can create 3D models and assets from a series of images or video, making 3D modeling accessible to a wider audience.
 
 ### Standard RAG vs Agentic RAG
+
+<img width="1584" height="720" alt="image" src="https://github.com/user-attachments/assets/35eeeb6e-fe90-49f7-9495-fef99b65a00d" />
