@@ -1,0 +1,17 @@
+- IDE
+  - Cursor (AI-powered code editor)
+  - GitHub Copilot (GitHub & OpenAI) (Popular AI assistants for coding)
+    - Runs in your IDE (VS Code, JetBrains, Neovim, and more)
+- Conversational AI assistans
+  - ChatGPT (OpenAI)
+  - Gemini (Google)
+  - Claude (Anthropic)
+- OS integration
+  - Copilot (Microsoft)
+    - Brand name for several different AI-powered tools
+      - **Copilot(Bing Chat)** - The general conversational assistant (similar to ChatGPT, or Gemini)
+      - **GitHub Copilot** - Specifically for code completion and programming assistance
+      - **Microsoft 365 Copilot** - Integrated into Word, Excel, PowerPoint, etc.
+    - Integrated directly into Microsoft products
+    - Works as a contextual AI layer over your Microsoft ecosystem
+    - For general productivity (documents, data, OS)
