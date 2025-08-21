@@ -2,6 +2,7 @@
   - Cursor (AI-powered code editor)
   - GitHub Copilot (GitHub & OpenAI) (Popular AI assistants for coding)
     - Runs in your IDE (VS Code, JetBrains, Neovim, and more)
+    - [Setup](https://code.visualstudio.com/docs/copilot/setup) in VS Code
 - Conversational AI assistans
   - ChatGPT (OpenAI)
   - Gemini (Google)
