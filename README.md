@@ -13,7 +13,7 @@
 - Generative AI
   - Generative (creating new content) and non-generative (like classification or analysis)
 - Agentic
-  - Word example: Agentic coding experience
+  - Word usage example: Agentic coding experience
   - “Agentic” comes from the word agency, which in psychology and philosophy refers to the capacity to act independently, make decisions, and exert control over one’s environment
 
 ---
