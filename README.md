@@ -18,6 +18,10 @@
 
 ---
 
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/2ef37575-0339-4e81-80cc-a2269fa9604c" />
+
+---
+
 ## LLM
 
 An **LLM** is a **Large Language Model** 🧠.
