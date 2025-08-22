@@ -4,7 +4,7 @@
     - Runs in your IDE (VS Code, JetBrains, Neovim, and more)
     - [Setup](https://code.visualstudio.com/docs/copilot/setup) in VS Code
     - [Agent mode](https://code.visualstudio.com/docs/copilot/chat/chat-agent-mode) in VS Code
-    - [Tutorial1](https://www.youtube.com/watch?v=uXOHOpqhkng), [Tutorial2](https://www.youtube.com/watch?v=pUK7MRzoTDc)
+    - [Tutorial1](https://www.youtube.com/watch?v=uXOHOpqhkng), [Tutorial2](https://www.youtube.com/watch?v=pUK7MRzoTDc), [Tutorial3](https://www.youtube.com/watch?v=9JGONx_X4ho)
 - Conversational AI assistans
   - ChatGPT (OpenAI)
   - Gemini (Google)
