@@ -8,8 +8,8 @@
 
 - LLM
 - AI engine
-- AI Assistant
-- AI Agent
+- AI Assistant (reactive)
+- AI Agent (proactive)
 - Generative AI
   - Generative (creating new content) and non-generative (like classification or analysis)
 - Agentic AI
@@ -257,6 +257,12 @@ An **AI agent** is a more advanced and autonomous system that is given a high-le
 ### The Blurring Line
 
 As AI technology advances, the line between these two categories is becoming increasingly blurred. Modern AI assistants like ChatGPT are gaining more agent-like capabilities (e.g., browsing the web, using a code interpreter, integrating with other tools). However, the fundamental distinction remains: a true AI agent has the ability to **proactively reason and act on its own** to achieve a complex goal, while an AI assistant primarily **reacts to direct user commands**.
+
+## Agentic AI
+
+[Source](https://aws.amazon.com/ai/agentic-ai/?nc2=h_l1_f)
+
+Agentic AI marks the evolution from reactive assistants to proactive, autonomous systems that can understand, decide, and act with minimal oversight. AI agents access tools, data, and the internet to navigate complex tasks, adapt to changing conditions, and collaborate with other agents to get work done. Unlike traditional AI that simply answers questions, agents can think, plan, remember, and learn from experience — driving efficiency and innovation across industries like finance, healthcare, retail, and customer service. As transformative as the personal computer or the internet, AI agents are set to redefine how we work and live.
 
 ### Standard RAG vs Agentic RAG
 
