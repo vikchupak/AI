@@ -11,6 +11,7 @@
 - AI Assistant
 - AI Agent
 - Generative AI
+  - Generative (creating new content) and non-generative (like classification or analysis)
 
 ---
 
