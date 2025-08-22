@@ -8,7 +8,7 @@
 
 - LLM
 - AI engine
-- AI Assistant (reactive). Sometimes there are such definitions depending on capabilities: reactive assistant vs proactive assistant
+- AI Assistant (reactive). Sometimes there are such definitions depending on capabilities: reactive assistant vs proactive assistant (Amazon Q)
 - AI Agent (proactive)
 - Generative AI
   - Generative (creating new content) and non-generative (like classification or analysis)
