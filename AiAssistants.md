@@ -17,4 +17,5 @@
     - *Integrated directly into Microsoft products
     - *Works as a contextual AI layer over your Microsoft ecosystem
     - *For general productivity (documents, data, OS)
-- Amazon Q: a generative AI assistant.
+- Amazon Q: a generative AI assistant
+  - [Tutorial](https://www.youtube.com/watch?v=cA8KrHFm4So)
