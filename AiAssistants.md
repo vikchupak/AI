@@ -5,7 +5,7 @@
     - [Install](https://www.youtube.com/watch?v=wxaxlIlN7BA) in VS Code. GitHub Copilot includes GitHub Copilot Chat
     - [Setup](https://code.visualstudio.com/docs/copilot/setup) in VS Code
     - [Agent mode](https://code.visualstudio.com/docs/copilot/chat/chat-agent-mode) in VS Code
-    - [Tutorial1](https://www.youtube.com/watch?v=uXOHOpqhkng), [Tutorial2](https://www.youtube.com/watch?v=pUK7MRzoTDc), [Tutorial3](https://www.youtube.com/watch?v=9JGONx_X4ho)
+    - [Best Tutorial - more like intro to AI](https://www.youtube.com/watch?v=6sn6S6nJ22o&list=PL4cUxeGkcC9joeiiVaLExvfSgmdtBbSPM&index=1), [Tutorial1](https://www.youtube.com/watch?v=uXOHOpqhkng), [Tutorial2](https://www.youtube.com/watch?v=pUK7MRzoTDc), [Tutorial3](https://www.youtube.com/watch?v=9JGONx_X4ho)
   - Anthropic Claude Code (via terminal)
     - [Info](https://habr.com/ru/articles/909866/), [Tutorial](https://www.youtube.com/watch?v=SUysp3sJHbA&list=PL4cUxeGkcC9g4YJeBqChhFJwKQ9TRiivY)
 - Conversational AI assistans
