@@ -13,10 +13,10 @@
     - A generative AI powered conversational assistant
     - [Tutorial](https://www.youtube.com/watch?v=cA8KrHFm4So)
 - Conversational AI assistans (with web chat interface)
-  - ChatGPT (OpenAI, has web chat interface)
-  - Gemini (Google, has web chat interface)
-  - Claude (Anthropic, has web chat interface)
-  - Copilot (Microsoft, has web chat interface)
+  - ChatGPT (OpenAI)
+  - Gemini (Google)
+  - Claude (Anthropic)
+  - Copilot (Microsoft)
     - *Brand name for several different AI-powered tools
       - **Copilot(Bing Chat)** - The general conversational assistant (similar to ChatGPT, or Gemini)
       - **GitHub Copilot** - Specifically for code completion and programming assistance
