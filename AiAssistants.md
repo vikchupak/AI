@@ -1,4 +1,4 @@
-- Coding (IDE like)
+- Coding AI assistans (with deep IDE integration)
   - Cursor (AI-powered code editor)
   - GitHub Copilot (GitHub & OpenAI) (AI coding assistant)
     - Runs in your IDE (VS Code, JetBrains, Neovim, and more)
