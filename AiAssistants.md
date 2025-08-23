@@ -1,4 +1,4 @@
-- IDE
+- Coding (IDE like)
   - Cursor (AI-powered code editor)
   - GitHub Copilot (GitHub & OpenAI) (AI coding assistant)
     - Runs in your IDE (VS Code, JetBrains, Neovim, and more)
@@ -6,9 +6,13 @@
     - [Setup](https://code.visualstudio.com/docs/copilot/setup) in VS Code
     - [Agent mode](https://code.visualstudio.com/docs/copilot/chat/chat-agent-mode) in VS Code
     - [Best Tutorial - more like intro to AI](https://www.youtube.com/watch?v=6sn6S6nJ22o&list=PL4cUxeGkcC9joeiiVaLExvfSgmdtBbSPM&index=1), [Tutorial1](https://www.youtube.com/watch?v=uXOHOpqhkng), [Tutorial2](https://www.youtube.com/watch?v=pUK7MRzoTDc), [Tutorial3](https://www.youtube.com/watch?v=9JGONx_X4ho)
-  - Anthropic Claude Code (via terminal)
+  - Claude Code (Anthropic) (via terminal only, but there are IDE extensions)
     - [Info](https://habr.com/ru/articles/909866/), [Tutorial](https://www.youtube.com/watch?v=SUysp3sJHbA&list=PL4cUxeGkcC9g4YJeBqChhFJwKQ9TRiivY)
-- Conversational AI assistans
+  - Amazon Q Developer (Amazon)
+    - Runs in IDE
+    - A generative AI powered conversational assistant
+    - [Tutorial](https://www.youtube.com/watch?v=cA8KrHFm4So)
+- Conversational AI assistans (with web chat interface)
   - ChatGPT (OpenAI, has web chat interface)
   - Gemini (Google, has web chat interface)
   - Claude (Anthropic, has web chat interface)
@@ -20,7 +24,3 @@
     - *Integrated directly into Microsoft products
     - *Works as a contextual AI layer over your Microsoft ecosystem
     - *For general productivity (documents, data, OS)
-  - Amazon Q Developer (Amazon, doesn't have web chat interface, only inside IDE)
-    - A generative AI powered conversational assistant
-    - [Tutorial](https://www.youtube.com/watch?v=cA8KrHFm4So)
-
