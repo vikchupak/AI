@@ -9,10 +9,10 @@
   - Anthropic Claude Code (via terminal)
     - [Info](https://habr.com/ru/articles/909866/), [Tutorial](https://www.youtube.com/watch?v=SUysp3sJHbA&list=PL4cUxeGkcC9g4YJeBqChhFJwKQ9TRiivY)
 - Conversational AI assistans
-  - ChatGPT (OpenAI)
-  - Gemini (Google)
-  - Claude (Anthropic)
-  - Copilot (Microsoft)
+  - ChatGPT (OpenAI, has web chat interface)
+  - Gemini (Google, has web chat interface)
+  - Claude (Anthropic, has web chat interface)
+  - Copilot (Microsoft, has web chat interface)
     - *Brand name for several different AI-powered tools
       - **Copilot(Bing Chat)** - The general conversational assistant (similar to ChatGPT, or Gemini)
       - **GitHub Copilot** - Specifically for code completion and programming assistance
@@ -20,7 +20,7 @@
     - *Integrated directly into Microsoft products
     - *Works as a contextual AI layer over your Microsoft ecosystem
     - *For general productivity (documents, data, OS)
-  - Amazon Q Developer (Amazon)
+  - Amazon Q Developer (Amazon, doesn't have web chat interface, only inside IDE)
     - A generative AI powered conversational assistant
     - [Tutorial](https://www.youtube.com/watch?v=cA8KrHFm4So)
 
