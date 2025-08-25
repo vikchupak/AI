@@ -15,3 +15,7 @@ mcp-postgres-client -> mcp-postgres-server -> postgres-db
 
 - If you want to expose your own API or service via MCP → you implement an MCP Server.
 - If you want to use existing MCP servers in your AI agent/app → you implement an MCP Client.
+
+---
+
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/8511ee8b-1a0a-4b08-a778-6dd3d6b646cc" />
